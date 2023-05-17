@@ -1,0 +1,1 @@
+INSERT INTO Produto (id, descricao, nome) VALUES (1, 'des', 'nome');
